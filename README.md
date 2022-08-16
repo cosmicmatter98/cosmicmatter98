@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I’m currently pursuing Bachelor of Technology in Jute and Fibre Technology at the Deaprtment of Jute and Fibre Technology, University of Calcutta
-- 🌱 I’m currently learning Python programming language and Data Science
+- 🎓 I’m an engineering graduate from University of Calcutta in Jute and Fibre Technology
 - 👁️‍🗨️ I'm currently looking for opportunities to utilise my skills and enhance my knowledge
 - 📫 How to reach me:
   - [Mail me](mailto:cosmicmatter98@yahoo.com)
