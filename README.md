@@ -27,3 +27,4 @@
 
 - [Case Study 1: Analysing Cyclistic Data](https://github.com/cosmicmatter98/cyclistic/)
 - [Data cleaning using SQL](https://github.com/cosmicmatter98/data-cleaning-using-sql)
+- [Analysing Bike Buying Behaviour using Microsoft Excel 2013](https://github.com/cosmicmatter98/bike-sales-demographic)
