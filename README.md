@@ -19,8 +19,6 @@
 
   - [Mail me](mailto:cosmicmatter98@yahoo.com)
   - [LinkedIn](https://www.linkedin.com/in/suvradri-maitra-7319981a2/)
-  - [Discord](https://discordapp.com/users/969467517569482774)
-  - [Twitter](https://twitter.com/MaitraSuvradri)
   - [Facebook](https://www.facebook.com/suvradri)
 
 ### 👷 My works
