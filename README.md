@@ -11,6 +11,7 @@
 - Programming Languages: C, Python and R
 - Querying using SQL; used BigQuery and Microsoft SQL Server Management Studio
 - Data visualisation using Tableau and RStudio
+- Creating dashboards using PowerBI
 - Spreadsheets: MS Excel, Google Sheets
 - Presentation softwares like MS Powerpoint and Google Slides
 - OS: Windows, Linux
