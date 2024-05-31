@@ -1,6 +1,6 @@
-## Hi there 👋
+## Suvradri Maitra
 
-😃 I am **SUVRADRI MAITRA** 😄
+Hi there 👋
 - I’m an engineering graduate from University of Calcutta in Jute and Fibre Technology
 - Pronouns: he/him
 - I love playing guitar in my spare time
