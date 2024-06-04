@@ -18,7 +18,7 @@ Hi there 👋
 
 ### 📫 Contact
 
-  - [Mail me](mailto:cosmicmatter98@yahoo.com)
+  - [Mail me](mailto:suvradri98@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/suvradri-maitra-7319981a2/)
   - [Facebook](https://www.facebook.com/suvradri)
 
