@@ -9,6 +9,7 @@ Hi there 👋
 ### 🔧 Skills
 #### Technical Skills 💻
 - Programming Languages: C, Python and R
+- Intermediate level skills in HTML and CSS
 - Querying using SQL; used BigQuery and Microsoft SQL Server Management Studio
 - Data visualisation using Tableau and RStudio
 - Creating dashboards using PowerBI
